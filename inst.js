@@ -1,4 +1,4 @@
-let profileName = 'fullychargeduk';
+let profileName = 'apple';
 async function getInstagramPictures (profileName) {
     const baseUrl = "https://www.instagram.com";
     const profileUrl = `${baseUrl}/${profileName}`;
